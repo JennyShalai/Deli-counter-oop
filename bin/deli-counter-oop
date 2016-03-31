@@ -1,0 +1,6 @@
+require_relative '../lib/deli-counter-oop.rb'
+
+line = Line.new
+line.take_a_number("Jenny")
+line.line
+line.now_serving
